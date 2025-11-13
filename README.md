@@ -1,4 +1,4 @@
-#ads2s-N-A
+ads2s-N-A
 
-##erica cristiana 25177978-2
-##fernanda 25000062-2
+erica cristiana 25177978-2
+fernanda 25000062-2
